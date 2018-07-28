@@ -1,0 +1,28 @@
+{
+  "name": "nHandsome",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "Chrome extension to override all images in a page with Handsome Squidward.",
+  "homepage_url": "https://github.com/marcelobbfonseca/nFijo",
+  "author": "marcelobbfonseca",
+  "short_name": "nHandsome",
+  "icons": {
+    "16": "squid_handsome.png",
+    "48": "squid_handsome.png",
+    "128": "squid_handsome.png"
+  },  
+  "permissions": [
+    "contentSettings"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "http://*/*",
+        "https://*/*"
+      ],
+      "js": [
+        "nfijo.js"
+      ]
+    }
+  ]
+}
