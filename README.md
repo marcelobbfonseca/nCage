@@ -5,4 +5,4 @@ Chrome extension to override all images in a page with Handsome Squidward..
 
 
 ## Link
-* Chrome: https://chrome.google.com/webstore/detail/ncage/hnbmfljfohghaepamnfokgggaejlmfol?hl=en
+* Chrome: Not yet published.
