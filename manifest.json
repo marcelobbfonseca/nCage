@@ -21,6 +21,7 @@
         "https://*/*"
       ],
       "js": [
+        "jquery.min.js",
         "nfijo.js"
       ]
     }

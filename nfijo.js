@@ -19,7 +19,19 @@
 			'https://coubsecure-s.akamaihd.net/get/b131/p/coub/simple/cw_timeline_pic/5f683280f4a/97eb55a89f9426eb9b1f6/med_1473937413_image.jpg',
 			'https://cdn.shopify.com/s/files/1/1749/2495/products/HandsomeSquidwardHoodie_2000x.jpg?v=1523538344',
 			'https://static1.squarespace.com/static/52293fbde4b054f0e184d15f/55768047e4b03d1ffbe5a477/58fadb75bf629ab224d9707a/1492835191109/CRUX-WEB-handsome-squidward_stickers-3-800.jpg?format=750w',
-			//+14
+			'https://i.pinimg.com/originals/a1/db/4e/a1db4ec2ac945e7fb743b210e1c69796.gif',
+			'https://i.kym-cdn.com/photos/images/original/000/059/683/Skweedward_Is_SO_Handsome_by_iSakubomb.png',
+			'https://i.pinimg.com/236x/b6/a2/7a/b6a27a3d0a41981296553c2260a58b9a--squidward-tentacles-cartoon-characters.jpg',
+			'https://78.media.tumblr.com/7fdb437d4ed53bf0e00e3034020e6986/tumblr_o0cghpKb3U1snyb10o1_500.png',
+			'https://orig00.deviantart.net/3008/f/2011/234/c/9/handsome_soldier_by_pinkstarangel_x-d47grw5.png',
+			'https://i.kym-cdn.com/photos/images/original/000/180/261/aee.jpg',
+			'https://scontent.fbsb3-1.fna.fbcdn.net/v/t1.0-9/10522096_798653753489080_2389378803438467078_n.jpg?_nc_cat=0&oh=f8b7f4b4307339f6714e7314e334626c&oe=5C11E8E0',
+			'https://pre00.deviantart.net/980f/th/pre/f/2014/002/1/4/handsome_squidward_magikarp_by_sagejellyfish-d70iaqb.png',
+			'https://78.media.tumblr.com/de9fc9a010256fdf512e822d8be395b2/tumblr_owcndyo9Iw1r6l5hao1_500.png',
+			'https://i.kym-cdn.com/photos/images/newsfeed/000/158/108/877.png',
+			'https://i.kym-cdn.com/photos/images/newsfeed/000/172/688/9cd.jpg',
+			'http://78.media.tumblr.com/tumblr_m0cnccel3G1r62ekio5_r1_500.jpg',
+			'https://pbs.twimg.com/profile_images/604923765806350337/HfXfLeNL.jpg',
 
 			],
 			handleImages : function (lstImgs, time)
