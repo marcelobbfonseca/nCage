@@ -32,7 +32,10 @@
 			'https://i.kym-cdn.com/photos/images/newsfeed/000/172/688/9cd.jpg',
 			'http://78.media.tumblr.com/tumblr_m0cnccel3G1r62ekio5_r1_500.jpg',
 			'https://pbs.twimg.com/profile_images/604923765806350337/HfXfLeNL.jpg',
-
+			'https://www.pngkey.com/png/detail/183-1831529_handsome-squidward-squidward-falling-image-mlp-rainbow-dash.png',
+			'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/d21bfd9c-8760-49f2-8a0b-be682df5a9f3/d97gm8o-51b8f90f-3dac-477f-8dc7-206652f1ab76.png',
+			'http://pixelartmaker.com/art/23247f1f55533d3.png',
+			'https://cdn.drawception.com/images/panels/2016/6-27/yFxEGh8d2h-2.png',
 			],
 			handleImages : function (lstImgs, time)
 			{
